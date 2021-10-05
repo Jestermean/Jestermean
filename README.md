@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jestermean
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java + Spring Stack
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning JavaScript + Node.JS
 
 <!---
 Jestermean/Jestermean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
